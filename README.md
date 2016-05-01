@@ -5,15 +5,15 @@ Introduction: The Air Guitar System (AGS) is designed to mimic the abilities of 
 
 ## code example:
 \#include "Project.h"
-Project guitar; // initialize class
-void setup() 
-{
-  guitar.setPin();
-}
-void loop() 
-{
-  guitar.playSound(); 
-}
+#Project guitar; 
+#void setup() 
+#{
+ # guitar.setPin();
+#}
+#void loop() 
+#{
+#  guitar.playSound(); 
+#}
 
 ##Motivation
 
