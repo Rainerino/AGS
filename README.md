@@ -1,3 +1,3 @@
-+##Project name: AGS (Air Guitar System)
++## Project name: AGS (Air Guitar System)
 +
 +Group memebers: 
