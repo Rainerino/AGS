@@ -4,7 +4,7 @@ Group memeber: Carmen Sing, John Kim, Yiyi Yan, Harry Li, Ringo Wong
 Introduction: The Air Guitar System (AGS) is designed to mimic the abilities of an electric guitar but playability of a simpler instrument, the bass guitar.  Much of the design consideration has been geared towards accurate sound replications and ease of use in order to mitigate a learning curve.  Our team will create a fully functional instrument that can be played anytime, anywhere.  Our guitar will not require strings, large sound board or further tuning.  Aside from mimicking the ability of a regular guitar to stop music and vary volumes based on strumming patterns, many additional features have been included to improve upon a regular guitar.   
 
 ## code example:
-#include "Project.h"
+\#include "Project.h"
 Project guitar; // initialize class
 void setup() 
 {
