@@ -29,7 +29,8 @@ Throughout history a common outlet for creativity is through music.  Research ha
 * [SFE_MMA8452Q library](https://learn.sparkfun.com/tutorials/mma8452q-accelerometer-breakout-hookup-guide/example-code)
 * [toneAC library](https://playground.arduino.cc/Code/ToneAC)
 
-## Modules
+## Modules 
+Modules | Designation
 --- | :---:
 1 | Team_Resistor (main)
 2 | Components
