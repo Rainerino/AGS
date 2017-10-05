@@ -60,7 +60,7 @@ void loop()
 
 ## References
 
-Included in the folder
+See Final documentation.docx
 
 ## Contributors
 Carmen Sing: csing00@langara.bc.ca
